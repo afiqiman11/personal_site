@@ -5,6 +5,9 @@ body
 h1,h2, h3
 {
 	font-family: century gothic;
+	margin-right: 70px;
+	margin-left: 70px;
+	
 }
 p
 {
@@ -18,4 +21,9 @@ p
 	margin-left: auto;
 	margin-right: auto;
 	
+}
+h1 :background-color
+{
+	margin-right: 30px;
+	margin-left: 30px;
 }
